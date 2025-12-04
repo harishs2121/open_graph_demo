@@ -1,0 +1,2 @@
+class OpenGraph < ApplicationRecord
+end
